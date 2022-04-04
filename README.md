@@ -6,6 +6,9 @@ Then put it in the *env.json* file.
 
 Also create an *.env* in `src` directory and paste the **API key** as it's done in *env.example*.
 
+Company name should be in proper `stock symbol` format, like `AAPL` is for `APPLE`.
+Vist [here](https://business.unl.edu/outreach/econ-ed/nebraska-council-on-economic-education/student-programs/stock-market-game/documents/Top%202000%20Valued%20Companies%20with%20Ticker%20Symbols.pdf) for reference.
+
 ## Installation
 
 Install the dependencies.
